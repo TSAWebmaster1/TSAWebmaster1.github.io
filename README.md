@@ -5,6 +5,13 @@
     <meta charset="utf-8"/>
     <link rel="stylesheet" type="text/css"
           href="main.css">
+    <style>
+      h1 { 
+      color: red;
+      font-size: 20px;
+      font-family: monospace
+      }
+      
   </head>
   <body>
     <header>
