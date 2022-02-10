@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+        padding: 25px;
+    font-family: monospace
+}
+.container {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.img_2004{
+    float:right;
+}
+.img_1196{
+    float:left;
+}
+body{
+    color:beige
+}
+h1{ 
+color:cornflowerblue
+}
+h2{
+    color:burlywood
+}
+h3{
+    color:cadetblue
+}
+p1{
+    color: antiquewhite
+}
+p2{
+    color:antiquewhite
+}
+p3{
+    color:antiquewhite
+}
+li {
+    display: inline;
+    float:center;   
+}
+.contact-btn {
+    float:right;
+}
+.contact-btn a {
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid#204156;
+}
+.contact-btn a:active{
+    position:relative;
+    bottom: 2px;
+}
